@@ -1,0 +1,7 @@
+datetime,reference,amount,dtkt,trname
+11/08/2018 11:01:07,001FTЗЗ182121504,4000.00,K,Credit received - invoice 12345
+15/08/2018 00:00:00,001ЗЗMRBGNL55001,0.60,D,Account maintenance fee
+15/08/2018 00:00:00,001ЗЗMRBGNL55001,1.40,D,Account maintenance fee
+16/08/2018 12:31:20,001AЗЗF182149938,25.96,D,POS merchant sale - Visa
+18/08/2018 11:46:57,001AЗЗ4182122509,200.00,D,ATM withdrawal
+18/08/2018 11:46:57,001AЗЗ4182122509,1.06,D,ATM withdrawal fee
